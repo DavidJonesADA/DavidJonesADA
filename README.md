@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidJonesADA
+- 👋 Hi, I’m David
 - I'm interested in Database Architecture and Backend API Handling
 - I'm assisting in the development of Lego Universe and Uchu
 - Svelte, Express, MongoDB, UX
